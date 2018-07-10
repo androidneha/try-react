@@ -1,0 +1,14 @@
+[
+  {
+    "id" : 1,
+    "title" : "Hello React",
+    "content" : "To get started, edit src/App.js and save to reload.",
+    "slug" : "hello-react"
+  },
+  {
+    "id" : 2,
+    "title" : "Hello Java",
+    "content" : "To get started, edit java and save to reload.",
+    "slug" : "hello-react"
+  }
+]
